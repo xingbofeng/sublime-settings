@@ -1,0 +1,189 @@
+{
+  "schema_version": "3.0.0",
+  "packages": [
+    {
+      "name": "AlignTab",
+      "details": "https://github.com/randy3k/AlignTab",
+      "author": "randy3k",
+      "releases": [
+        {
+          "sublime_text": "<3000",
+          "tags": "st2-"
+        },
+        {
+          "sublime_text": ">=3000",
+          "tags": "st3-"
+        }
+      ]
+    },
+    {
+      "name": "AutoMatchEnabled",
+      "details": "https://github.com/randy3k/AutoMatchEnabled",
+      "previous_names": ["Auto Match Enabled"],
+      "releases": [
+        {
+          "sublime_text": "*",
+          "tags": true
+        }
+      ]
+    },
+    {
+      "name": "AutomaticPackageReloader",
+      "details": "https://github.com/randy3k/AutomaticPackageReloader",
+      "previous_names": ["PackageReloader"],
+      "releases": [
+        {
+          "sublime_text": ">=3000",
+          "tags": true
+        }
+      ]
+    },
+    {
+      "details": "https://github.com/randy3k/AutoWrap",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "tags": true
+        }
+      ]
+    },
+    {
+      "details": "https://github.com/randy3k/ChangeList",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "tags": true
+        }
+      ]
+    },
+    {
+      "details": "https://github.com/randy3k/GitStatusBar",
+      "releases": [
+        {
+          "sublime_text": ">=3000",
+          "tags": true
+        }
+      ]
+    },
+    {
+      "name": "UnicodeCompletion",
+      "details": "https://github.com/randy3k/UnicodeCompletion",
+      "releases": [
+        {
+          "sublime_text": ">=3000",
+          "tags": true
+        }
+      ]
+    },    
+    {
+      "name": "LaTeXBox",
+      "details": "https://github.com/randy3k/LaTeXBox",
+      "releases": [
+        {
+          "sublime_text": ">=3119",
+          "tags": true
+        }
+      ]
+    },
+    {
+      "name": "LaTeXTab",
+      "details": "https://github.com/randy3k/LaTeXTab",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "tags": true
+        }
+      ]
+    },
+    {
+      "name": "LaTeXYZ",
+      "details": "https://github.com/randy3k/LaTeXYZ",
+      "previous_names": ["LaTeXZeta"],
+      "releases": [
+        {
+          "sublime_text": "*",
+          "tags": true
+        }
+      ]
+    },
+    {
+      "name": "ProjectManager",
+      "details": "https://github.com/randy3k/ProjectManager",
+      "previous_names": ["Project Manager"],
+      "releases": [
+        {
+          "sublime_text": ">3000",
+          "tags": true
+        }
+      ]
+    },
+    {
+      "name": "R-Box",
+      "details": "https://github.com/randy3k/R-Box",
+      "releases": [
+        {
+          "sublime_text": "<3103",
+          "version": "2.9.6",
+          "url": "https://codeload.github.com/randy3k/R-Box/zip/2.9.6",
+          "date": "2015-12-17 00:00:00"
+        },
+        {
+          "sublime_text": ">3119",
+          "tags": true
+        }
+      ]
+    },
+    {
+      "name": "SendCode",
+      "details": "https://github.com/randy3k/SendCode",
+      "previous_names": ["SendTextPlus", "SendREPL"],
+      "releases": [
+        {
+          "sublime_text": ">3000",
+          "tags": true
+        }
+      ]
+    },
+    {
+      "name": "SyntaxManager",
+      "details": "https://github.com/randy3k/SyntaxManager",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "tags": true
+        }
+      ]
+    },
+    {
+      "name": "UnitTesting",
+      "details": "https://github.com/randy3k/UnitTesting",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "tags": true
+        }
+      ]
+    },
+    {
+      "name": "Whitespace",
+      "details": "https://github.com/randy3k/Whitespace",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "tags": true
+        }
+      ]
+    },
+    {
+      "name": "Wombat Color Scheme",
+      "details": "https://github.com/randy3k/Wombat",
+      "labels": ["color scheme"],
+      "releases": [
+        {
+          "sublime_text": "*",
+          "tags": true
+        }
+      ]
+    }
+  ]
+}

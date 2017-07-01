@@ -1,0 +1,33 @@
+{
+	"schema_version": "3.0.0",
+	"packages": [
+		{
+			"name": "Element Finder",
+			"labels": ["file navigation", "search"],
+			"description": "Search HTML files using CSS selectors",
+			"author": ["Keegan Street", "thinkV"],
+			"details": "https://github.com/thinkv/sublime-elfinder",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"platforms": ["osx", "linux"],
+					"version": "0.3.3",
+					"date": "2013-01-07 20:00:00",
+					"url": "https://github.com/keeganstreet/sublime-elfinder/zipball/osx-0.3.3"
+				},
+				{
+					"sublime_text": "<3000",
+					"platforms": "windows",
+					"version": "0.3.3",
+					"date": "2013-01-07 20:00:00",
+					"url": "https://github.com/keeganstreet/sublime-elfinder/zipball/windows-0.3.3"
+				},
+				{
+					"base": "https://github.com/thinkv/sublime-elfinder",
+					"sublime_text": ">=3000",
+					"tags": "st3-"
+				}
+			]		
+		}
+	]
+}

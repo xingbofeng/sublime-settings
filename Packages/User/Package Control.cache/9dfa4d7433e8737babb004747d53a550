@@ -1,0 +1,30 @@
+{
+	"schema_version": "3.0.0",
+	"packages": [
+		{
+			"name"          : "Theme - Monokai Pro",
+			"previous_names": ["Monokai Pro"],
+			"description"   : "Monokai Pro: a beautiful and functional user interface for focusing",
+			"author"        : "Monokai",
+			"issues"        : "https://github.com/monokai/monokai-pro/issues",
+			"readme"        : "https://raw.githubusercontent.com/Monokai/monokai-pro/master/README.md",
+			"homepage"      : "https://www.monokai.pro",
+			"buy"           : "https://www.monokai.pro",
+			"labels"        : ["theme", "monokai", "monokai pro", "colors", "focus", "beautiful functionality", "minimal", "icons", "syntax highlighting", "user interface", "color scheme"],
+			"releases"   : [
+				{
+					"version"     : "1.0.1",
+					"date"        : "2017-06-01 18:30:00",
+					"sublime_text": ">=3000",
+					"url"         : "https://packages.monokai.pro/Theme - Monokai Pro/1.0.1/Theme - Monokai Pro.sublime-package"
+				},
+				{
+					"version"     : "1.0.2",
+					"date"        : "2017-06-15 09:00:00",
+					"sublime_text": ">=3000",
+					"url"         : "https://packages.monokai.pro/Theme - Monokai Pro/1.0.2/Theme - Monokai Pro.sublime-package"
+				}
+			]
+		}
+	]
+}

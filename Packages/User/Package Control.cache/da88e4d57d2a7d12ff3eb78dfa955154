@@ -1,0 +1,19 @@
+{
+    "schema_version": "2.0",
+    "packages": [
+        {
+            "name": "Erlyman",
+            "details": "https://github.com/Mendor/sublime-erlyman",
+            "labels": ["documentation"],
+            "releases": [
+                {
+                    "version": "0.28",
+                    "sublime_text": "*",
+                    "platforms": ["osx", "linux"],
+                    "date": "2017-04-03 10:15:00",
+                    "url": "https://nodeload.github.com/Mendor/sublime-erlyman/zip/0.28"
+                }
+            ]
+        }
+    ]
+}

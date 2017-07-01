@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"ArcticTypescript",
+		"Babel",
+		"C Improved",
+		"CoolFormat",
+		"DocBlockr",
+		"Emmet",
+		"ESLint",
+		"FreeMarker",
+		"JsFormat",
+		"Package Control",
+		"Pug",
+		"Python PEP8 Autoformat",
+		"React Templates",
+		"ReactJS",
+		"SublimeAStyleFormatter",
+		"SublimeCodeIntel",
+		"sublimelint",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"Vue Syntax Highlight"
+	]
+}
